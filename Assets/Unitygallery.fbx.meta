@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 8f2c0f9ddff75224b9eaaa2abf3aa6d6
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 4595839807625160088
+    second: Cube.053|BezierCircle.002Action
+  - first:
+      74: -4252768528099507709
+    second: Cube.053|BezierCircle.003Action
+  - first:
+      74: 8807095685474899808
+    second: Cube.053|BezierCircle.004Action
+  - first:
+      74: -3853698298839858822
+    second: Cube.053|CameraAction.004
+  - first:
+      74: -3660135829362794161
+    second: Cube.057|BezierCircle.002Action
+  - first:
+      74: 6694871024380654151
+    second: Cube.057|BezierCircle.003Action
+  - first:
+      74: -2073464741553705894
+    second: Cube.057|BezierCircle.004Action
+  - first:
+      74: 6566976077582257651
+    second: Cube.057|CameraAction.004
+  - first:
+      74: 2051275339794534080
+    second: Cube.059|BezierCircle.002Action
+  - first:
+      74: 340152507063737609
+    second: Cube.059|BezierCircle.003Action
+  - first:
+      74: 5942788261213947892
+    second: Cube.059|BezierCircle.004Action
+  - first:
+      74: 5326719997302329209
+    second: Cube.059|CameraAction.004
+  - first:
+      74: 5616637569826007723
+    second: Cube.064|BezierCircle.002Action
+  - first:
+      74: 4837317826553925450
+    second: Cube.064|BezierCircle.003Action
+  - first:
+      74: 5899832551112566259
+    second: Cube.064|BezierCircle.004Action
+  - first:
+      74: 500917240278093209
+    second: Cube.064|CameraAction.004
+  - first:
+      74: 3639640962933531415
+    second: Cube.109|BezierCircle.002Action
+  - first:
+      74: 5580211684314221538
+    second: Cube.109|BezierCircle.003Action
+  - first:
+      74: -8834001566139196282
+    second: Cube.109|BezierCircle.004Action
+  - first:
+      74: 7346530356250420831
+    second: Cube.109|CameraAction.004
+  - first:
+      74: 7350079641095934722
+    second: Cube.018|BezierCircle.002Action
+  - first:
+      74: -3618686671643676847
+    second: Cube.018|BezierCircle.003Action
+  - first:
+      74: 2304712693261152496
+    second: Cube.018|BezierCircle.004Action
+  - first:
+      74: 4601554341005467659
+    second: Cube.018|CameraAction.004
+  - first:
+      74: 1486119033081787917
+    second: Cube.019|BezierCircle.002Action
+  - first:
+      74: -7884645069841520595
+    second: Cube.019|BezierCircle.003Action
+  - first:
+      74: 2668071011005170893
+    second: Cube.019|BezierCircle.004Action
+  - first:
+      74: -6323699998736958616
+    second: Cube.019|CameraAction.004
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
